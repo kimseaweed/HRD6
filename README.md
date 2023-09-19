@@ -1,6 +1,6 @@
 # HRD6
 정보처리 산업기사 과정평가형 실기 예제 - 골프장 회원관리 프로그램<br>
-4시간 중 2시간 40분 소요<br><br>
+4시간 중 3시간 55분 소요<br><br>
 ![스크린샷 2023-09-19 233101](https://github.com/kimseaweed/HRD6/assets/128600341/547982d2-c3a1-4baf-a859-eebcb084ef8c)
 
 ![스크린샷 2023-09-19 233108](https://github.com/kimseaweed/HRD6/assets/128600341/18dc3dd6-b8c5-4cd0-b663-29e30de50809)
